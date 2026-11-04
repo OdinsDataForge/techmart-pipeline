@@ -7,6 +7,8 @@
 ![Lint](https://github.com/OdinsDataForge/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/OdinsDataForge/techmart-pipeline)
 
+![Open Issues](https://img.shields.io/github/issues/OdinsDataForge/techmart-pipeline)
+
 ## Project Overview
 
 A small Python project for TechMart's order data. This scaffold exists to show
