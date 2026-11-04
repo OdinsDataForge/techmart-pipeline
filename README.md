@@ -11,6 +11,8 @@
 
 ## Project Overview
 
+We need some more info here.
+
 A small Python project for TechMart's order data. This scaffold exists to show
 what a real, version-controlled Python project looks like: how it is laid out,
 how it is tested, and how GitHub runs those checks automatically.
